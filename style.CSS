@@ -1,0 +1,15 @@
+h1 { text-align: center; color:darkmagenta;
+}
+table,th,td{ border: 1px rgb(150, 142, 142) ;border-style:solid; margin-left: auto; margin-right: auto;
+height: 75px; width: 75px; text-align: center; 
+}
+.invis{ 
+empty-cells: hide;
+
+}
+  
+.Classcell1 { 
+height: 100%;
+width: 100%;
+}
+
