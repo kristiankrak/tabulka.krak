@@ -1,15 +1,29 @@
 h1 { text-align: center; color:darkmagenta;
 }
-table,th,td{ border: 1px rgb(150, 142, 142) ;border-style:solid; margin-left: auto; margin-right: auto;
-height: 75px; width: 75px; text-align: center; 
+table {   
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 100%;
+    height: 100%;
+    text-align: center;
 }
-.invis{ 
-empty-cells: hide;
+.kovy{ border-style: solid;background-color: aquamarine;
+}
+.alkalickekovy{ border-style: solid;background-color:salmon
+}
+.alkalichzemin{ border-style: solid;background-color:goldenrod
+}
+.prechodovvekovy{  border-style: solid;background-color:plum
+}
+.polokovy{  border-style: solid;background-color:wheat
+}
+.nekovy{ border-style: solid;background-color:yellowgreen
+}
+.halogeny{ border-style: solid;background-color:blue
+}
+.vzacnepliny{ border-style: solid;background-color : yellow
+}
 
+.invis { empty-cells: hide;
 }
-  
-.Classcell1 { 
-height: 100%;
-width: 100%;
-}
-
