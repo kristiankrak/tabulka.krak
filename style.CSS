@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+    color: darkmagenta;
+    margin-bottom: 20px;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+td {
+    border: 5px solid black;
+    width: 50px;
+    height: 50px;
+    font-weight: bold;
+}
+
+.nekovy {
+    background-color: rgb(158, 216, 43);
+}
+
+.halogeny {
+    background-color: blue;
+}
+
+.vzacnepliny {
+    background-color: yellow;
+}
+
+.kovy {
+    background-color: rgb(7, 175, 226);
+}
+
+.alkalickekovy {
+    background-color: rgb(240, 89, 72);
+}
+
+.alkalichzemin {
+    background-color: goldenrod;
+}
+
+.prechodovekovy {
+    background-color: rgb(218, 98, 218);
+}
+
+.polokovy {
+    background-color: lightblue;
+}
+
+.invis {
+    border: none;
+    background: transparent;
+}
+.lanthanoidy {
+    background-color:  whitesmoke;
+}
+
+.aktinoidy {
+    background-color: whitesmoke;
+}
